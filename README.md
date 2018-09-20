@@ -1,4 +1,7 @@
 # @nod/link-local-packages
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/NOD-studios/link-local-packages.svg)](https://greenkeeper.io/)
+
 Reads dependencies and links them if they exist in the given or current path
 
 ## Install
